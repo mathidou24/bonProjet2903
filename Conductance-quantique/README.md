@@ -13,7 +13,7 @@ La prise de mesure est gérée par la classe `Acquisition` introduite dans le fi
 ### Traitement des données
 On travaille actuellement sur cette section. Le traitement de données consiste principalement à prendre les données storées dans `acquisition_data.csv` pour ensuite y chercher des plateaux.
 
-Actuellement, l'un des codes les plus prometteur se trouve dans `P_plateau_search.py`. Matthieu a effectué des amélioration qui n'ont pas encore été poussé sur ce github.
+MAINTENANT, l'un des codes les plus prometteur se trouve dans `P_plateau_search.py`. Matthieu a effectué des amélioration qui n'ont pas encore été poussé sur ce github.
 
 Le code de filtration de données `P_filtrer_donnes.py` sert à éliminer les point qui ne sont assurément pas sur un plateau. Les données filtrées sont sur `P_filtered_data.csv`.
 
